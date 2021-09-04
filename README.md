@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrishikeshps
+- 👋 Hi, I’m Hrishikesh Sharma
 - 👀 I'm working as a Full Stack Developer
 - 🌱 I’m currently learning Machine Learning/AI using Python
 - 💞️ I’m looking forward to help the community
